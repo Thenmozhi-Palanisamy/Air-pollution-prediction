@@ -1,4 +1,4 @@
-![pic1](https://github.com/user-attachments/assets/41f8b944-c0d7-45b2-87a5-5de4f9336d0b)# Air-pollution-prediction using machine learning
+# Air-pollution-prediction using machine learning
 # Aim
 The primary aim of an AI-powered Air Pollution Prediction project using Machine Learning is to develop a model that can accurately forecast air quality levels based on real-time and historical data. This helps in mitigating health risks, guiding environmental policies, and raising awareness about air pollution trends.
 
